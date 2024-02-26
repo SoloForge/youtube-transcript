@@ -1,6 +1,6 @@
 {
   "name": "soloforge-youtube-transcript",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "packageManager": "pnpm@8.15.3",
   "description": "",
   "type": "module",
