@@ -1,6 +1,6 @@
 {
   "name": "soloforge-youtube-transcript",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "packageManager": "pnpm@8.15.3",
   "description": "",
   "type": "module",
@@ -22,7 +22,6 @@
   "types": "./dist/index.d.ts",
   "exports": {
     ".": {
-      "require": "./dist/index.cjs",
       "import": "./dist/index.js"
     },
     "./package.json": "./package.json"
